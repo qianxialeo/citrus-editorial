@@ -1,0 +1,20 @@
+name: 改进建议
+description: 提出功能、文案或美术方面的建议
+title: "[建议] "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 想改进什么
+      description: 可以举一个使用场景，说明当前哪里不方便。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 希望达到什么效果
+  - type: textarea
+    id: reference
+    attributes:
+      label: 可选参考或截图

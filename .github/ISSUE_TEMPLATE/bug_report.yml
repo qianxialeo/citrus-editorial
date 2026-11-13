@@ -1,0 +1,30 @@
+name: 网站问题
+description: 报告功能或排版问题
+title: "[问题] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: 请先搜索已有问题。截图遮住个人资料，不要提交密码、密钥或Cookie。
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题和发生位置
+      placeholder: 在哪个页面、进行了什么操作、出现了什么现象？
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤与期望表现
+    validations:
+      required: false
+  - type: input
+    id: environment
+    attributes:
+      label: 设备与浏览器
+      placeholder: 例如 Windows / Edge，或 iPhone / Safari
+  - type: textarea
+    id: attachments
+    attributes:
+      label: 截图或补充说明
