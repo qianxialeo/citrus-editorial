@@ -12,10 +12,6 @@
 - [查看问题与建议](https://github.com/qianxialeo/citrus-editorial/issues)
 - [提交反馈](https://github.com/qianxialeo/citrus-editorial/issues/new/choose)
 
-### 访问提示
-
-网站更新期间可能短暂出现 **502** 错误。请稍等片刻后刷新页面，即可继续访问。
-
 ## 注册与访问
 
 目前网站注册需要验证码。如需注册账号，可以通过以下方式联系浅夏：
@@ -24,6 +20,10 @@
 
 - 在妮可百合研讨会QQ群中私信，QQ：3949296780。
 - 发送邮件至 [qianxialeo@outlook.com](mailto:qianxialeo@outlook.com)。
+
+### 访问提示
+
+网站更新期间可能短暂出现 **502** 错误。请稍等片刻后刷新页面，即可继续访问。
 
 ## 网站板块
 
